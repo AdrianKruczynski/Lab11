@@ -1,4 +1,4 @@
-# Projekt Docker
+# Lab11
 
 Projekt zawiera konfigurację Docker'a służącą do uruchomienia zestawu aplikacji webowej z użyciem NGINX, PHP, MySQL i phpMyAdmin.
 
